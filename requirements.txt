@@ -1,1 +1,4 @@
 cvzone
+cv2
+numpy
+pickle
