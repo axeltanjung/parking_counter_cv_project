@@ -1,4 +1,4 @@
-# Parking Counter Project
+# Parking Counter Projects
 
 This project is a parking counter system that uses OpenCV to detect and count the number of vehicles in a parking lot.
 
